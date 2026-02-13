@@ -2,7 +2,7 @@
 
 User API é uma aplicação Back-end desenvolvida em Go (Golang) utilizando Gin, PostgreSQL, GORM, JWT Authentication e Swagger para documentação.
 
-O projeto implementa autenticação baseada em token JWT, arquitetura em camadas (Handler → Service → Repository) e organização modular utilizando internal/.
+O projeto implementa autenticação baseada em token JWT, arquitetura em camadas (Handler → Service → Repository).
 
 
 ### Instalação/Execução:
